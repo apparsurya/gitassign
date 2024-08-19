@@ -1,1 +1,3 @@
 added 3.txt in footer branch
+
+Now i have updated and modified the file 3.txt in master
